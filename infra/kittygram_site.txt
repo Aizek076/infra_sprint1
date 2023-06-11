@@ -1,0 +1,5 @@
+IP: 130.193.34.137;
+name_taski: https://taski-praktikum.hopto.org/;
+name_kittygram: https://kitty-kittygram.ddns.net/;
+login: super;
+password: 123;
